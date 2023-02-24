@@ -1,1 +1,1 @@
-# zig_zag_check_airdrop
+добавить свои адреса в файл wallets.txt
